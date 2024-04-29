@@ -1,0 +1,5 @@
+Notes
+1-The webfont file removes the effect of the icon inside the html file and converts it to svg
+2-   1rem=16px =====>In case, if I use another font size in the root, the 1 Rem will be this font
+-(btn btn-primary-rounded-pill main-btn)==>Library for make button
+-(text-center)===>Library for centering elements
